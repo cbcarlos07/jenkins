@@ -1,0 +1,1 @@
+ docker logs docker-jenkins-3
